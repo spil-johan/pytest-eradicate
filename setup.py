@@ -6,7 +6,7 @@ if __name__ == "__main__":
         description='pytest plugin to check for commented out code',
         long_description=open("README.md").read(),
         license="MIT license",
-        version='0.0.1',
+        version='0.0.2',
         author='Johan Bloemberg',
         author_email='johan.bloemberg@spilgames.com',
         url='https://github.com/spil-johan/pytest-eradicate',
